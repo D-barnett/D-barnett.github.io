@@ -1,0 +1,22 @@
+p{
+   font-family:serif;
+   padding-left:200px;
+   padding-top:30px;
+   margin:50px;
+   font-size: 16px;
+}
+p#about{
+	font-style:italic;
+	font-family:serif;
+}
+h2{
+	font-family: :Verdana;
+	text-align: left;
+	border-left:thin;
+	border-bottom-style:none;
+}
+img{
+	 height:170px;
+	 width: 170px;
+	 box-shadow: rgb(0,0,0,0.2) 10px 10px;
+}
